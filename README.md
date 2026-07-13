@@ -1,4 +1,4 @@
-# SummitQuest — Trekking Management App V2
+# Trekking Management App V2
 
 A trekking management web app built with Vue.js and Flask.
 Three roles: Admin, Trek Staff, and Trekker.
