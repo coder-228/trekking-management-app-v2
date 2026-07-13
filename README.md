@@ -33,6 +33,10 @@ Runs on http://localhost:5173 — open this in browser
 cd backend
 python -m celery -A celery_worker.celery beat --loglevel=info
 
+### Window 4 — Celery Beat
+cd backend
+python -m celery -A celery_worker.celery beat --loglevel=info
+
 ---
 
 ## Login Credentials (Data seeded programmically)
